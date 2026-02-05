@@ -13,7 +13,7 @@
 [![AdaL CLI](https://img.shields.io/badge/AdaL%20CLI-SylphAI-pink)](https://sylph.ai/)
 [![ASK Supported](https://img.shields.io/badge/ASK-Supported-blue)](https://github.com/yeasy/ask)
 
-**Antigravity Awesome Skills** is a curated, battle-tested library of **631 high-performance agentic skills** designed to work seamlessly across all major AI coding assistants:
+**AI Awesome Skills** is a curated, battle-tested library of **631 high-performance agentic skills** designed to work seamlessly across all major AI coding assistants:
 
 - 🟣 **Claude Code** (Anthropic CLI)
 - 🔵 **Gemini CLI** (Google DeepMind)
@@ -48,7 +48,7 @@ This repository provides essential skills to transform your AI assistant into a 
 
 ### 1. 🐣 Context: What is this?
 
-**Antigravity Awesome Skills** (Release 4.0.0) is a massive upgrade to your AI's capabilities.
+**AI Awesome Skills** (Release 4.0.0) is a massive upgrade to your AI's capabilities.
 
 AI Agents (like Claude Code, Cursor, or Gemini) are smart, but they lack **specific tools**. They don't know your company's "Deployment Protocol" or the specific syntax for "AWS CloudFormation".
 **Skills** are small markdown files that teach them how to do these specific tasks perfectly, every time.
